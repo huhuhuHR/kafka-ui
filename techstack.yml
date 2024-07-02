@@ -1,0 +1,1478 @@
+repo_name: huhuhuHR/kafka-ui
+report_id: a5f269f89588ac8546503e87d04fa269
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:29:40+00:00'
+requested_by: dependabot[bot]
+provider: github
+branch: master
+detected_tools_count: 112
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/documentation/compose/postgres/data.sql
+  detection_source: documentation/compose/postgres/data.sql
+  last_updated_by: Ildar Almakaev
+  last_updated_on: 2021-07-23 13:37:51.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui
+  detection_source: Repo Metadata
+- name: Avro
+  description: A data serialization framework
+  website_url: https://avro.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4265/avro.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Yevgen Taran
+  last_updated_on: 2020-02-27 12:55:53.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
+- name: Project Reactor
+  description: Library for building non-blocking applications on JVM
+  website_url: https://projectreactor.io/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/5807/default_cbd8ab670309059d7e315252d307d409aa40d793.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-03-01 12:13:29.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shur
+  last_updated_on: 2022-07-19 13:18:28.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-03-01 12:13:29.000000000 Z
+- name: Zustand
+  description: Bear necessities for state management in React
+  website_url: https://github.com/react-spring/zustand
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Monitoring for Analytics
+  image_url: https://img.stackshare.io/service/11559/zustand.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shur
+  last_updated_on: 2022-09-20 10:44:02.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David
+  last_updated_on: 2023-03-09 15:36:49.000000000 Z
+- name: Confluent
+  description: A stream data platform to help companies harness their high volume
+    real-time data streams
+  website_url: https://www.confluent.io/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/5862/default_89c3b9968d36020bf2eaaf162d706866b6da195f.jpg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2021-07-12 10:41:38.000000000 Z
+- name: Kafka
+  description: Distributed, fault tolerant, high throughput pub-sub messaging system
+  website_url: http://kafka.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Narekmat
+  last_updated_on: 2022-12-09 13:59:25.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shur
+  last_updated_on: 2022-05-11 22:03:08.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/.github/workflows/aws_publisher.yaml
+  detection_source: ".github/workflows/aws_publisher.yaml"
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-08-29 13:46:10.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Yevgen Taran
+  last_updated_on: 2020-02-27 12:55:53.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
+- name: Mockito
+  description: Tasty mocking framework for unit tests in Java
+  website_url: https://site.mockito.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2021/4y634TJm_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ramazan Yapparov
+  last_updated_on: 2021-03-15 18:37:36.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-08-01 14:19:03.000000000 Z
+- name: SLF4J
+  description: Simple logging facade for Java
+  website_url: http://slf4j.org/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Log Management
+  image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: marat
+  last_updated_on: 2021-04-19 11:49:10.000000000 Z
+- name: TestNG
+  description: A testing framework inspired from JUnit and NUnit
+  website_url: http://testng.org/doc/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Vlad Senyuta
+  last_updated_on: 2023-04-10 08:22:57.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/src/main/resources/application.yml
+  detection_source: kafka-ui-api/src/main/resources/application.yml
+  last_updated_by: German Osin
+  last_updated_on: 2020-08-03 07:39:19.000000000 Z
+- name: ANTLR
+  description: Posts by Terence Parr, The ANTLR guy, about ANTLR, StringTemplate,
+    parsing, and general computer language cruft.
+  website_url: http://www.antlr.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8585/a159037c4838e54e93d9f630a295c396_normal.jpeg
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui
+  detection_source: Repo Metadata
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shur
+  last_updated_on: 2021-08-10 11:29:02.000000000 Z
+- name: yup
+  website_url: https://github.com/jquense/yup
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10756/339286.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
+- name: com.codeborne:selenide
+  description: Selenide = concise API for Selenium WebDriver
+  version: 6.12.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Vlad Senyuta
+  last_updated_on: 2023-04-10 08:22:57.000000000 Z
+- name: com.squareup.okhttp3:mockwebserver
+  description: 'Null'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Marat Gumarov
+  last_updated_on: 2022-10-07 10:36:27.000000000 Z
+- name: com.squareup.okhttp3:okhttp
+  description: 'Null'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Marat Gumarov
+  last_updated_on: 2022-10-07 10:36:27.000000000 Z
+- name: io.micrometer:micrometer-registry-prometheus
+  description: Application monitoring instrumentation facade
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-08-01 14:19:03.000000000 Z
+- name: io.netty:netty-buffer
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2022-08-01 16:18:24.000000000 Z
+- name: io.netty:netty-codec
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2022-08-01 16:18:24.000000000 Z
+- name: io.netty:netty-common
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2022-08-01 16:18:24.000000000 Z
+- name: io.netty:netty-handler
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2022-08-01 16:18:24.000000000 Z
+- name: io.netty:netty-resolver
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2022-08-01 16:18:24.000000000 Z
+- name: io.netty:netty-transport
+  description: Netty is an asynchronous event-driven network application framework
+    for rapid development of maintainable high performance protocol servers and clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2022-08-01 16:18:24.000000000 Z
+- name: io.netty:netty-transport-native-epoll
+  description: Netty project - an event-driven asynchronous network application framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2022-08-01 16:18:24.000000000 Z
+- name: io.netty:netty-transport-native-unix-common
+  description: Static library which contains common unix utilities
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2022-08-01 16:18:24.000000000 Z
+- name: io.projectreactor:reactor-test
+  description: Reactor Test support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-03-01 12:13:29.000000000 Z
+- name: net.bytebuddy:byte-buddy
+  description: Byte Buddy is a Java library for creating Java classes at run time
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Egorka Voronyansky
+  last_updated_on: 2022-10-21 05:40:35.000000000 Z
+- name: org.antlr:antlr4-runtime
+  description: The ANTLR 4 Runtime
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-08-01 14:19:03.000000000 Z
+- name: org.apache.avro:avro
+  description: Avro core components
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: 3.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.apache.commons:commons-pool2
+  description: The Apache Commons Object Pooling Library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.apache.kafka:kafka-clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.aspectj:aspectjrt
+  description: The runtime needed to execute a program using AspectJ
+  version: 1.9.9
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Vlad Senyuta
+  last_updated_on: 2023-04-10 08:22:57.000000000 Z
+- name: org.assertj:assertj-core
+  description: Rich and fluent assertions for testing for Java
+  version: 3.24.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.codehaus.groovy:groovy-json
+  description: 'Groovy: A powerful, dynamic language for the JVM'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.codehaus.groovy:groovy-jsr223
+  description: 'Groovy: A powerful, dynamic language for the JVM'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.hamcrest:hamcrest
+  description: Core API and libraries of hamcrest matcher framework
+  version: '2.2'
+  license: DSDP
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: Vlad Senyuta
+  last_updated_on: 2023-04-10 08:22:57.000000000 Z
+- name: org.json:json
+  description: JSON is a light-weight, language independent, data interchange format
+  license: JSON
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.junit.jupiter:junit-jupiter-engine
+  description: Module "junit-jupiter-engine" of JUnit 5
+  license: EPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-08-01 14:19:03.000000000 Z
+- name: org.mockito:mockito-core
+  description: Mockito mock objects library core API and implementation
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.mockito:mockito-junit-jupiter
+  description: Mockito JUnit 5 support
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.slf4j:slf4j-simple
+  description: SLF4J Simple binding
+  version: 2.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-30 10:44:15.000000000 Z
+- name: org.springframework.boot:spring-boot-actuator
+  description: Spring Boot Actuator
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.springframework.boot:spring-boot-devtools
+  description: Spring Boot Developer Tools
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-actuator
+  description: Starter for using Spring Boot's Actuator which provides production
+    ready features to help you monitor and manage your application
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-08-01 14:19:03.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-logging
+  description: Starter for logging using Logback. Default logging starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-08-01 14:19:03.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-security
+  description: Starter for using Spring Security
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-08-01 14:19:03.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-08-01 14:19:03.000000000 Z
+- name: org.springframework.security:spring-security-ldap
+  description: Spring-security-ldap
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-api/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.testcontainers:testcontainers
+  description: Isolated container management for Java code testing
+  version: 1.17.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-api/pom.xml
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-04-24 12:02:08.000000000 Z
+- name: org.testng:testng
+  description: Testing framework for Java
+  version: 7.7.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-e2e-checks/pom.xml
+  detection_source: kafka-ui-e2e-checks/pom.xml
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-08 08:36:50.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David
+  last_updated_on: 2023-03-09 15:36:49.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
+  - name: Vite Server Options (server.fs.deny) can be bypassed using double forward-slash
+      (//)
+    cve_id: CVE-2023-34092
+    cve_url: https://github.com/advisories/GHSA-353f-5xf4-qw67
+    detected_date: Nov 23
+    severity: high
+    first_patched: 4.0.5
+  - name: Vite's `server.fs.deny` did not deny requests for patterns with directories.
+    cve_id: CVE-2024-31207
+    cve_url: https://github.com/advisories/GHSA-8jhw-289h-jh2g
+    detected_date: Apr 4
+    severity: moderate
+    first_patched: 4.5.3
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.16.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David
+  last_updated_on: 2023-03-09 15:36:49.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 14.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.172
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David Bejanyan
+  last_updated_on: 2023-06-02 14:33:18.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 16.4.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2023-08-23 07:15:32.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David Bejanyan
+  last_updated_on: 2023-06-02 14:33:18.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.29.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: ajv
+  description: Another JSON Schema Validator
+  package_url: https://www.npmjs.com/ajv
+  version: 8.6.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16186/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Ilya Kuramshin
+  last_updated_on: 2023-01-16 10:49:04.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 19.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: eslint-import-resolver-node
+  description: Node default behavior import resolution plugin for eslint-plugin-import
+  package_url: https://www.npmjs.com/eslint-import-resolver-node
+  version: 0.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17714/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: eslint-import-resolver-typescript
+  description: TypeScript .ts .tsx module resolver for `eslint-plugin-import`
+  package_url: https://www.npmjs.com/eslint-import-resolver-typescript
+  version: 3.2.7
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.30.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: fetch-mock
+  description: Mock http requests made using fetch
+  package_url: https://www.npmjs.com/fetch-mock
+  version: 9.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16762/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David
+  last_updated_on: 2023-03-09 15:36:49.000000000 Z
+- name: jest-environment-jsdom
+  description: Delightful JavaScript Testing
+  package_url: https://www.npmjs.com/jest-environment-jsdom
+  version: 29.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18413/default_867ef7396016341fd213fa568d6de11cc98fefff.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David
+  last_updated_on: 2023-03-09 15:36:49.000000000 Z
+- name: jest-styled-components
+  description: Jest utilities for Styled Components
+  package_url: https://www.npmjs.com/jest-styled-components
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16879/default_143d92b1fc944107cf48a3ab42a2a347bf3d91b5.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David
+  last_updated_on: 2023-03-09 15:36:49.000000000 Z
+- name: jest-watch-typeahead
+  description: Jest plugin for filtering by filename or test name
+  package_url: https://www.npmjs.com/jest-watch-typeahead
+  version: 2.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16646/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David Bejanyan
+  last_updated_on: 2023-06-02 14:33:18.000000000 Z
+- name: pretty-ms
+  description: 'Convert milliseconds to a human readable string: `1337000000` → `15d
+    11h 23m 20s`'
+  package_url: https://www.npmjs.com/pretty-ms
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17620/default_2b5fe3dc5bfc4e83a84162459ff612ac6febd61a.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-09-05 09:32:37.000000000 Z
+- name: react-ace
+  description: A react component for Ace Editor
+  package_url: https://www.npmjs.com/react-ace
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18432/default_090197a87d306c919c7dbc09bfedd02e3b061236.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: react-datepicker
+  description: A simple and reusable datepicker component for React
+  package_url: https://www.npmjs.com/react-datepicker
+  version: 4.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17239/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: react-error-boundary
+  description: Simple reusable React error boundary component
+  package_url: https://www.npmjs.com/react-error-boundary
+  version: 3.1.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: react-is
+  description: Brand checking of React Elements
+  package_url: https://www.npmjs.com/react-is
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17829/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 8.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Hyojin Hwang
+  last_updated_on: 2023-06-16 05:17:50.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 4.1.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: David
+  last_updated_on: 2023-03-09 15:36:49.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Roman Zabaluev
+  last_updated_on: 2023-08-23 07:15:32.000000000 Z
+- name: whatwg-fetch
+  description: A window.fetch polyfill
+  package_url: https://www.npmjs.com/whatwg-fetch
+  version: 3.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16094/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shur
+  last_updated_on: 2022-09-20 10:44:02.000000000 Z
+- name: yup
+  description: Dead simple Object schema validation
+  package_url: https://www.npmjs.com/yup
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17215/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/huhuhuHR/kafka-ui/blob/master/kafka-ui-react-app/package.json
+  detection_source: kafka-ui-react-app/package.json
+  last_updated_by: Oleg Shuralev
+  last_updated_on: 2019-12-24 14:11:46.000000000 Z
